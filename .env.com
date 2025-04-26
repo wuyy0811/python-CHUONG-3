@@ -1,3 +1,0 @@
-EMAIL_SENDER=jjumpit2468@gmail.com
-EMAIL_PASSWORD=ituwandcktfiokad
-EMAIL_RECEIVER=huy_2051220087@dau.edu.vn
